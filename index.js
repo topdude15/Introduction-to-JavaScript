@@ -146,9 +146,7 @@ function hungryDog(weight, age){
 
   let food = hungryDog (15, 1);
   console.log(food);
-
-
-
+  
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
 // Rock, Paper, Scissors - Let's play against the computer!
